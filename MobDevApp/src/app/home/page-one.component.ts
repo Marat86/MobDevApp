@@ -13,7 +13,7 @@ import { PageTwoComponent } from './page-two.component';
     <ion-content class="ion-padding">
 
       <ion-nav-link router-direction="forward" [component]="component">
-        <ion-button>Videos</ion-button>
+        <ion-button>Videosnnnnn</ion-button>
       </ion-nav-link>
       <ion-nav-link router-direction="forward" [component]="component">
         <ion-button>Photos</ion-button>
